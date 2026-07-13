@@ -1,7 +1,7 @@
 Hi, I'm Rajani Tangirala 👋
 Content Experience Lead at Salesforce · AI Documentation Systems Architect · 19+ Years in Technical Writing
 I design documentation systems — not just documentation. Below are three portfolio projects demonstrating how I use Claude, Cursor, and agentic AI workflows to build, automate, and audit technical documentation at enterprise scale.
-📫 rajanit0805@gmail.com · LinkedIn
+📫 rajanit0805@gmail.com ·
 ---
 📘 Featured Projects
 🔹 FlowDocs — AI-Assisted Developer Documentation Site
